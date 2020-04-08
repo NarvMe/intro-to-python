@@ -38,7 +38,7 @@ def run_game():
     guess = int(input("Guess a number: "))
     if guess == number:
         print("That's right!")
-        return
+        break
     elif number < guess:
         print("Lower")
     else:

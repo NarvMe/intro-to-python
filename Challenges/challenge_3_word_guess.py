@@ -50,6 +50,25 @@ If the user doesn't win, tell them the answer.
 
 def word_game():
     pass
+    #Zufalls wort auswählen mit random number in der range von len(list(words))
+
+
+    ####ACHTUNG: es soll Hangman sein.
+
+    #user wort aufnehmen und in liste speichern
+
+    #liste dem nutzer anzeigen
+
+
+
+    #user word_liste mit zufallswort vergleichen
+
+
+    #wenn richtig user gratulieren
+
+    #wenn nicht richtig
+        #user seine alten guesses zeigen
+        #user bitten noch einen guess abzugeben
 
 
 word_game()
